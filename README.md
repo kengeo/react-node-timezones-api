@@ -2,7 +2,7 @@
 
 ## Installation
 
-- `git clone https://git.toptal.com/screening/kenroy-george.git`
+- `git clone https://github.com/kengeo/react-node-timezones-api.git`
 - `cd kenroy-george`
 - `npm install` or `yarn install`
 - `npm start` or `yarn start`
